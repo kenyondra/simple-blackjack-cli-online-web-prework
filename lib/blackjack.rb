@@ -1,6 +1,6 @@
 def welcome
   # code #welcome here
-  puts 
+  puts "Welcome to the Black"
 end
 
 def deal_card
