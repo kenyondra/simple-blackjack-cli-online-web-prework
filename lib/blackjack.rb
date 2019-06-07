@@ -34,11 +34,12 @@ def initial_round
   deal_one = deal_card
   deal_two = deal_card
   card_total = deal_one + deal_two
-  display_card_total
+  display_card_total(card_total)
 end
 
 def hit?
   # code hit? here
+  
 end
 
 def invalid_command
