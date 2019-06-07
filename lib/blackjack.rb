@@ -58,7 +58,8 @@ end
 
 def runner
   welcome
-  card_total
+  card_total = 0 
+  
   # code runner here
 end
     
