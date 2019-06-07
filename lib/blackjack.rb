@@ -16,7 +16,7 @@ end
 
 def prompt_user
   # code #prompt_user here
-  puts "Type 'h"
+  puts "Type 'h' to hit "
 end
 
 def get_user_input
