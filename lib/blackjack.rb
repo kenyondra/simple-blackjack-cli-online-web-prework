@@ -57,7 +57,8 @@ end
 #####################################################
 
 def runner
-  
+  welcome
+  card_total
   # code runner here
 end
     
